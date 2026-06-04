@@ -1,0 +1,19 @@
+{
+  "name": "zero-trust-secrets-vault",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Educational encrypted secrets vault with envelope encryption model, access policy checks, and audit log.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "infrastructure",
+    "developer-tools",
+    "system-design",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
